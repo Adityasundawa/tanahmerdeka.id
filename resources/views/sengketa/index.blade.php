@@ -1879,7 +1879,7 @@
                                         <div class="card-header text-white px-3 py-1" style="background: #8f8f8f">
                                             <div class="row">
                                                 <div class="col-lg-12">
-                                                    <h5 class="mb-0 text-center">Kode Bidang BL-004 <img
+                                                    <h5 class="mb-0 text-center">Kode Bid BT-004 <img
                                                             src="https://sengketatanah.id/uploads/biru_centang.png"
                                                             alt="" class="mb-1" style="height:20px"></h5>
                                                 </div>
@@ -2168,7 +2168,7 @@
                                             <div class="row">
 
                                                 <div class="col-lg-12">
-                                                    <h5 class="mb-0 text-center">Kode Bidang BL-001 <img
+                                                    <h5 class="mb-0 text-center">Kode Bid BT-001 <img
                                                             src="{{asset('')}}uploads/biru_centang.png" alt=""
                                                             class="mb-1" style="height:20px"></h5>
                                                 </div>
@@ -2452,7 +2452,7 @@
                                             <div class="row">
 
                                                 <div class="col-lg-12">
-                                                    <h5 class="mb-0 text-center">Kode Bidang BL-002 <img
+                                                    <h5 class="mb-0 text-center">Kode Bid BT-002 <img
                                                             src="{{asset('')}}uploads/biru_centang.png" alt=""
                                                             class="mb-1" style="height:20px"></h5>
                                                 </div>
@@ -2735,7 +2735,7 @@
                                             <div class="row">
 
                                                 <div class="col-lg-12">
-                                                    <h5 class="mb-0 text-center">Kode Bidang BL-003 <img
+                                                    <h5 class="mb-0 text-center">Kode Bid BT-003 <img
                                                             src="{{asset('')}}uploads/biru_centang.png" alt=""
                                                             class="mb-1" style="height:20px"></h5>
                                                 </div>
@@ -3027,7 +3027,7 @@
                                         <div class="card-header text-white px-3 py-1" style="background: #8f8f8f">
                                             <div class="row">
                                                 <div class="col-lg-12">
-                                                    <h5 class="mb-0 text-center">Kode Bidang BL-004 <img
+                                                    <h5 class="mb-0 text-center">Kode Bid BT-004 <img
                                                             src="https://sengketatanah.id/uploads/biru_centang.png"
                                                             alt="" class="mb-1" style="height:20px"></h5>
                                                 </div>
@@ -3315,7 +3315,7 @@
                                             <div class="row">
 
                                                 <div class="col-lg-12">
-                                                    <h5 class="mb-0 text-center">Kode Bidang BL-001 <img
+                                                    <h5 class="mb-0 text-center">Kode Bid BT-001 <img
                                                             src="{{asset('')}}uploads/biru_centang.png" alt=""
                                                             class="mb-1" style="height:20px"></h5>
                                                 </div>
@@ -3599,7 +3599,7 @@
                                             <div class="row">
 
                                                 <div class="col-lg-12">
-                                                    <h5 class="mb-0 text-center">Kode Bidang BL-002 <img
+                                                    <h5 class="mb-0 text-center">Kode Bid BT-002 <img
                                                             src="{{asset('')}}uploads/biru_centang.png" alt=""
                                                             class="mb-1" style="height:20px"></h5>
                                                 </div>
@@ -3882,7 +3882,7 @@
                                             <div class="row">
 
                                                 <div class="col-lg-12">
-                                                    <h5 class="mb-0 text-center">Kode Bidang BL-003 <img
+                                                    <h5 class="mb-0 text-center">Kode Bid BT-003 <img
                                                             src="{{asset('')}}uploads/biru_centang.png" alt=""
                                                             class="mb-1" style="height:20px"></h5>
                                                 </div>
@@ -4309,7 +4309,7 @@
                                         <div class="card-header text-white px-3 py-1" style="background: #8f8f8f">
                                             <div class="row">
                                                 <div class="col-lg-12">
-                                                    <h5 class="mb-0 text-center">Kode Bidang BL-004 <img
+                                                    <h5 class="mb-0 text-center">Kode Bid BT-004 <img
                                                             src="https://sengketatanah.id/uploads/biru_centang.png"
                                                             alt="" class="mb-1" style="height:20px"></h5>
                                                 </div>
@@ -4598,7 +4598,7 @@
                                             <div class="row">
 
                                                 <div class="col-lg-12">
-                                                    <h5 class="mb-0 text-center">Kode Bidang BL-001 <img
+                                                    <h5 class="mb-0 text-center">Kode Bid BT-001 <img
                                                             src="{{asset('')}}uploads/biru_centang.png" alt=""
                                                             class="mb-1" style="height:20px"></h5>
                                                 </div>
@@ -4882,7 +4882,7 @@
                                             <div class="row">
 
                                                 <div class="col-lg-12">
-                                                    <h5 class="mb-0 text-center">Kode Bidang BL-002 <img
+                                                    <h5 class="mb-0 text-center">Kode Bid BT-002 <img
                                                             src="{{asset('')}}uploads/biru_centang.png" alt=""
                                                             class="mb-1" style="height:20px"></h5>
                                                 </div>
@@ -5165,7 +5165,7 @@
                                             <div class="row">
 
                                                 <div class="col-lg-12">
-                                                    <h5 class="mb-0 text-center">Kode Bidang BL-003 <img
+                                                    <h5 class="mb-0 text-center">Kode Bid BT-003 <img
                                                             src="{{asset('')}}uploads/biru_centang.png" alt=""
                                                             class="mb-1" style="height:20px"></h5>
                                                 </div>
@@ -5457,7 +5457,7 @@
                                         <div class="card-header text-white px-3 py-1" style="background: #8f8f8f">
                                             <div class="row">
                                                 <div class="col-lg-12">
-                                                    <h5 class="mb-0 text-center">Kode Bidang BL-004 <img
+                                                    <h5 class="mb-0 text-center">Kode Bid BT-004 <img
                                                             src="https://sengketatanah.id/uploads/biru_centang.png"
                                                             alt="" class="mb-1" style="height:20px"></h5>
                                                 </div>
@@ -5745,7 +5745,7 @@
                                             <div class="row">
 
                                                 <div class="col-lg-12">
-                                                    <h5 class="mb-0 text-center">Kode Bidang BL-001 <img
+                                                    <h5 class="mb-0 text-center">Kode Bid BT-001 <img
                                                             src="{{asset('')}}uploads/biru_centang.png" alt=""
                                                             class="mb-1" style="height:20px"></h5>
                                                 </div>
@@ -6029,7 +6029,7 @@
                                             <div class="row">
 
                                                 <div class="col-lg-12">
-                                                    <h5 class="mb-0 text-center">Kode Bidang BL-002 <img
+                                                    <h5 class="mb-0 text-center">Kode Bid BT-002 <img
                                                             src="{{asset('')}}uploads/biru_centang.png" alt=""
                                                             class="mb-1" style="height:20px"></h5>
                                                 </div>
@@ -6312,7 +6312,7 @@
                                             <div class="row">
 
                                                 <div class="col-lg-12">
-                                                    <h5 class="mb-0 text-center">Kode Bidang BL-003 <img
+                                                    <h5 class="mb-0 text-center">Kode Bid BT-003 <img
                                                             src="{{asset('')}}uploads/biru_centang.png" alt=""
                                                             class="mb-1" style="height:20px"></h5>
                                                 </div>
@@ -6768,7 +6768,7 @@
                                         <div class="card-header text-white px-3 py-1" style="background: #8f8f8f">
                                             <div class="row">
                                                 <div class="col-lg-12">
-                                                    <h5 class="mb-0 text-center">Kode Bidang BL-004 <img
+                                                    <h5 class="mb-0 text-center">Kode Bid BT-004 <img
                                                             src="https://sengketatanah.id/uploads/biru_centang.png"
                                                             alt="" class="mb-1" style="height:20px"></h5>
                                                 </div>
@@ -7057,7 +7057,7 @@
                                             <div class="row">
 
                                                 <div class="col-lg-12">
-                                                    <h5 class="mb-0 text-center">Kode Bidang BL-001 <img
+                                                    <h5 class="mb-0 text-center">Kode Bid BT-001 <img
                                                             src="{{asset('')}}uploads/biru_centang.png" alt=""
                                                             class="mb-1" style="height:20px"></h5>
                                                 </div>
@@ -7341,7 +7341,7 @@
                                             <div class="row">
 
                                                 <div class="col-lg-12">
-                                                    <h5 class="mb-0 text-center">Kode Bidang BL-002 <img
+                                                    <h5 class="mb-0 text-center">Kode Bid BT-002 <img
                                                             src="{{asset('')}}uploads/biru_centang.png" alt=""
                                                             class="mb-1" style="height:20px"></h5>
                                                 </div>
@@ -7624,7 +7624,7 @@
                                             <div class="row">
 
                                                 <div class="col-lg-12">
-                                                    <h5 class="mb-0 text-center">Kode Bidang BL-003 <img
+                                                    <h5 class="mb-0 text-center">Kode Bid BT-003 <img
                                                             src="{{asset('')}}uploads/biru_centang.png" alt=""
                                                             class="mb-1" style="height:20px"></h5>
                                                 </div>
@@ -7916,7 +7916,7 @@
                                         <div class="card-header text-white px-3 py-1" style="background: #8f8f8f">
                                             <div class="row">
                                                 <div class="col-lg-12">
-                                                    <h5 class="mb-0 text-center">Kode Bidang BL-004 <img
+                                                    <h5 class="mb-0 text-center">Kode Bid BT-004 <img
                                                             src="https://sengketatanah.id/uploads/biru_centang.png"
                                                             alt="" class="mb-1" style="height:20px"></h5>
                                                 </div>
@@ -8204,7 +8204,7 @@
                                             <div class="row">
 
                                                 <div class="col-lg-12">
-                                                    <h5 class="mb-0 text-center">Kode Bidang BL-001 <img
+                                                    <h5 class="mb-0 text-center">Kode Bid BT-001 <img
                                                             src="{{asset('')}}uploads/biru_centang.png" alt=""
                                                             class="mb-1" style="height:20px"></h5>
                                                 </div>
@@ -8488,7 +8488,7 @@
                                             <div class="row">
 
                                                 <div class="col-lg-12">
-                                                    <h5 class="mb-0 text-center">Kode Bidang BL-002 <img
+                                                    <h5 class="mb-0 text-center">Kode Bid BT-002 <img
                                                             src="{{asset('')}}uploads/biru_centang.png" alt=""
                                                             class="mb-1" style="height:20px"></h5>
                                                 </div>
@@ -8771,7 +8771,7 @@
                                             <div class="row">
 
                                                 <div class="col-lg-12">
-                                                    <h5 class="mb-0 text-center">Kode Bidang BL-003 <img
+                                                    <h5 class="mb-0 text-center">Kode Bid BT-003 <img
                                                             src="{{asset('')}}uploads/biru_centang.png" alt=""
                                                             class="mb-1" style="height:20px"></h5>
                                                 </div>
@@ -9222,7 +9222,7 @@
                                         <div class="card-header text-white px-3 py-1" style="background: #8f8f8f">
                                             <div class="row">
                                                 <div class="col-lg-12">
-                                                    <h5 class="mb-0 text-center">Kode Bidang BL-004 <img
+                                                    <h5 class="mb-0 text-center">Kode Bid BT-004 <img
                                                             src="https://sengketatanah.id/uploads/biru_centang.png"
                                                             alt="" class="mb-1" style="height:20px"></h5>
                                                 </div>
@@ -9511,7 +9511,7 @@
                                             <div class="row">
 
                                                 <div class="col-lg-12">
-                                                    <h5 class="mb-0 text-center">Kode Bidang BL-001 <img
+                                                    <h5 class="mb-0 text-center">Kode Bid BT-001 <img
                                                             src="{{asset('')}}uploads/biru_centang.png" alt=""
                                                             class="mb-1" style="height:20px"></h5>
                                                 </div>
@@ -9795,7 +9795,7 @@
                                             <div class="row">
 
                                                 <div class="col-lg-12">
-                                                    <h5 class="mb-0 text-center">Kode Bidang BL-002 <img
+                                                    <h5 class="mb-0 text-center">Kode Bid BT-002 <img
                                                             src="{{asset('')}}uploads/biru_centang.png" alt=""
                                                             class="mb-1" style="height:20px"></h5>
                                                 </div>
@@ -10078,7 +10078,7 @@
                                             <div class="row">
 
                                                 <div class="col-lg-12">
-                                                    <h5 class="mb-0 text-center">Kode Bidang BL-003 <img
+                                                    <h5 class="mb-0 text-center">Kode Bid BT-003 <img
                                                             src="{{asset('')}}uploads/biru_centang.png" alt=""
                                                             class="mb-1" style="height:20px"></h5>
                                                 </div>
@@ -10370,7 +10370,7 @@
                                         <div class="card-header text-white px-3 py-1" style="background: #8f8f8f">
                                             <div class="row">
                                                 <div class="col-lg-12">
-                                                    <h5 class="mb-0 text-center">Kode Bidang BL-004 <img
+                                                    <h5 class="mb-0 text-center">Kode Bid BT-004 <img
                                                             src="https://sengketatanah.id/uploads/biru_centang.png"
                                                             alt="" class="mb-1" style="height:20px"></h5>
                                                 </div>
@@ -10658,7 +10658,7 @@
                                             <div class="row">
 
                                                 <div class="col-lg-12">
-                                                    <h5 class="mb-0 text-center">Kode Bidang BL-001 <img
+                                                    <h5 class="mb-0 text-center">Kode Bid BT-001 <img
                                                             src="{{asset('')}}uploads/biru_centang.png" alt=""
                                                             class="mb-1" style="height:20px"></h5>
                                                 </div>
@@ -10942,7 +10942,7 @@
                                             <div class="row">
 
                                                 <div class="col-lg-12">
-                                                    <h5 class="mb-0 text-center">Kode Bidang BL-002 <img
+                                                    <h5 class="mb-0 text-center">Kode Bid BT-002 <img
                                                             src="{{asset('')}}uploads/biru_centang.png" alt=""
                                                             class="mb-1" style="height:20px"></h5>
                                                 </div>
@@ -11225,7 +11225,7 @@
                                             <div class="row">
 
                                                 <div class="col-lg-12">
-                                                    <h5 class="mb-0 text-center">Kode Bidang BL-003 <img
+                                                    <h5 class="mb-0 text-center">Kode Bid BT-003 <img
                                                             src="{{asset('')}}uploads/biru_centang.png" alt=""
                                                             class="mb-1" style="height:20px"></h5>
                                                 </div>
