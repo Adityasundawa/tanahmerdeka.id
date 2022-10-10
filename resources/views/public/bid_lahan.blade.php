@@ -1504,16 +1504,16 @@
                                         </div>
                                         <div class="carousel-inner">
                                             <div class="carousel-item active">
-                                                <img src="{{asset('')}}{{$bs['img']}}" class="d-block w-100" style="height:210px;width:auto;object-fit:cover">
+                                                <img src="{{asset('')}}{{$bs['img']}}" class="d-block w-100" style="height:210px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
                                             </div>
                                             <div class="carousel-item">
-                                                <img src="{{asset('')}}{{$bs['img1']}}" class="d-block w-100" style="height:210px;width:auto;object-fit:cover">
+                                                <img src="{{asset('')}}{{$bs['img1']}}" class="d-block w-100" style="height:210px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
                                             </div>
                                             <div class="carousel-item">
-                                                <img src="{{asset('')}}{{$bs['img2']}}" class="d-block w-100" style="height:210px;width:auto;object-fit:cover">
+                                                <img src="{{asset('')}}{{$bs['img2']}}" class="d-block w-100" style="height:210px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
                                             </div>
                                             <div class="carousel-item">
-                                                <img src="{{asset('')}}{{$bs['img3']}}" class="d-block w-100" style="height:210px;width:auto;object-fit:cover">
+                                                <img src="{{asset('')}}{{$bs['img3']}}" class="d-block w-100" style="height:210px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
                                             </div>
                                         </div>
                                         <button class="carousel-control-prev opacity-90 text-dark" type="button" data-bs-target="#carouselmobile{{$bs['id']}}" data-bs-slide="prev">
@@ -1849,16 +1849,16 @@
                                     </div>
                                     <div class="carousel-inner">
                                         <div class="carousel-item active">
-                                            <img src="{{asset('')}}{{$bs['img']}}" class="d-block w-100" style="height:210px;width:auto;object-fit:cover">
+                                            <img src="{{asset('')}}{{$bs['img']}}" class="d-block w-100" style="height:210px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
                                         </div>
                                         <div class="carousel-item">
-                                            <img src="{{asset('')}}{{$bs['img1']}}" class="d-block w-100" style="height:210px;width:auto;object-fit:cover">
+                                            <img src="{{asset('')}}{{$bs['img1']}}" class="d-block w-100" style="height:210px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
                                         </div>
                                         <div class="carousel-item">
-                                            <img src="{{asset('')}}{{$bs['img2']}}" class="d-block w-100" style="height:210px;width:auto;object-fit:cover">
+                                            <img src="{{asset('')}}{{$bs['img2']}}" class="d-block w-100" style="height:210px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
                                         </div>
                                         <div class="carousel-item">
-                                            <img src="{{asset('')}}{{$bs['img3']}}" class="d-block w-100" style="height:210px;width:auto;object-fit:cover">
+                                            <img src="{{asset('')}}{{$bs['img3']}}" class="d-block w-100" style="height:210px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
                                         </div>
                                     </div>
                                     <button class="carousel-control-prev opacity-90 text-dark" type="button" data-bs-target="#carouselmobile{{$bs['id']}}" data-bs-slide="prev">
@@ -2197,16 +2197,16 @@
                                     </div>
                                     <div class="carousel-inner">
                                         <div class="carousel-item active">
-                                            <img src="{{asset('')}}{{$bs['img']}}" class="d-block w-100" style="height:210px;width:auto;object-fit:cover">
+                                            <img src="{{asset('')}}{{$bs['img']}}" class="d-block w-100" style="height:210px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
                                         </div>
                                         <div class="carousel-item">
-                                            <img src="{{asset('')}}{{$bs['img1']}}" class="d-block w-100" style="height:210px;width:auto;object-fit:cover">
+                                            <img src="{{asset('')}}{{$bs['img1']}}" class="d-block w-100" style="height:210px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
                                         </div>
                                         <div class="carousel-item">
-                                            <img src="{{asset('')}}{{$bs['img2']}}" class="d-block w-100" style="height:210px;width:auto;object-fit:cover">
+                                            <img src="{{asset('')}}{{$bs['img2']}}" class="d-block w-100" style="height:210px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
                                         </div>
                                         <div class="carousel-item">
-                                            <img src="{{asset('')}}{{$bs['img3']}}" class="d-block w-100" style="height:210px;width:auto;object-fit:cover">
+                                            <img src="{{asset('')}}{{$bs['img3']}}" class="d-block w-100" style="height:210px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
                                         </div>
                                     </div>
                                     <button class="carousel-control-prev opacity-90 text-dark" type="button" data-bs-target="#carouselmobile{{$bs['id']}}" data-bs-slide="prev">
@@ -2541,16 +2541,16 @@
                                     </div>
                                     <div class="carousel-inner">
                                         <div class="carousel-item active">
-                                            <img src="{{asset('')}}{{$bs['img']}}" class="d-block w-100" style="height:210px;width:auto;object-fit:cover">
+                                            <img src="{{asset('')}}{{$bs['img']}}" class="d-block w-100" style="height:210px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
                                         </div>
                                         <div class="carousel-item">
-                                            <img src="{{asset('')}}{{$bs['img1']}}" class="d-block w-100" style="height:210px;width:auto;object-fit:cover">
+                                            <img src="{{asset('')}}{{$bs['img1']}}" class="d-block w-100" style="height:210px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
                                         </div>
                                         <div class="carousel-item">
-                                            <img src="{{asset('')}}{{$bs['img2']}}" class="d-block w-100" style="height:210px;width:auto;object-fit:cover">
+                                            <img src="{{asset('')}}{{$bs['img2']}}" class="d-block w-100" style="height:210px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
                                         </div>
                                         <div class="carousel-item">
-                                            <img src="{{asset('')}}{{$bs['img3']}}" class="d-block w-100" style="height:210px;width:auto;object-fit:cover">
+                                            <img src="{{asset('')}}{{$bs['img3']}}" class="d-block w-100" style="height:210px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
                                         </div>
                                     </div>
                                     <button class="carousel-control-prev opacity-90 text-dark" type="button" data-bs-target="#carouselmobile{{$bs['id']}}" data-bs-slide="prev">
@@ -3177,6 +3177,247 @@
 
 
     @include('sengketa.modal-detail-index')
+
+    
+    <div class="modal fade" id="image-modal" tabindex="-1" aria-labelledby="image-modalLabel" aria-hidden="true">
+            <div class="modal-dialog modal-fullscreen modal-dialog-centered">
+                <div class="modal-content border-0" style="background-color:transparent">
+
+                    <div class="modal-header bg-dark text-white border-0">
+                        <h5 class="modal-title title-bidang">Modal title</h5>
+                        <i type="button" class="fa-solid fa-times" data-bs-dismiss="modal" aria-label="Close"></i>
+                    </div>
+                    <div class="modal-body d-flex" style="background-color:transparent">
+                        <div class="container">
+
+                            <style>
+                                .image-kunam-2 {
+                                    max-height: 520px;
+                                    object-fit: cover
+                                }
+
+                                .carousel-indicators.custom {
+                                    position: relative;
+                                    margin-bottom: 0;
+                                    justify-content: start;
+                                    overflow-x: auto;
+                                    display: flex;
+                                    flex-wrap: nowrap;
+                                }
+
+                                .carousel-indicators.custom [data-bs-target] {
+                                    flex: 0 0 auto;
+                                    width: 20%;
+                                    height: auto;
+                                }
+
+                                .carousel-indicators.custom.scroll-simple::-webkit-scrollbar-track {
+                                    border-radius: 10px;
+                                    background: rgba(255, 255, 255, 0.1);
+                                }
+
+                                .carousel-indicators.custom.scroll-simple::-webkit-scrollbar-thumb {
+                                    border-radius: 10px;
+                                    background: rgba(255, 255, 255, 0.2);
+                                }
+
+                                .carousel-indicators.custom.scroll-simple::-webkit-scrollbar-thumb:hover {
+                                    background: rgba(255, 255, 255, 0.4);
+                                }
+
+                                .carousel-indicators.custom.scroll-simple::-webkit-scrollbar-thumb:active {
+                                    background: rgba(255, 255, 255, 0.9);
+                                }
+
+                                figure.zoom {
+                                    background-position: 50% 50%;
+                                    position: relative;
+                                    box-shadow: -1px 5px 15px black;
+                                    height: auto;
+                                    width: 70%;
+                                    overflow: hidden;
+                                    cursor: zoom-in;
+                                    object-fit: cover
+                                }
+
+                                figure.zoom img:hover {
+                                    opacity: 0;
+                                }
+
+                                figure.zoom img {
+                                    transition: opacity 0.5s;
+                                    display: block;
+                                    width: 100%;
+                                    height: 100%;
+                                }
+
+                                @media (max-width: 767.98px) {
+                                    .carousel-indicators.custom {
+                                        position: relative;
+                                        margin-bottom: 0;
+                                        justify-content: start;
+                                        overflow-x: auto;
+                                        display: flex;
+                                        flex-wrap: nowrap;
+                                        margin-right: 0;
+                                        margin-left: 0;
+                                    }
+
+                                    .carousel-indicators.custom [data-bs-target] {
+                                        width: 30% !important;
+
+                                    }
+
+                                    figure.zoom {
+                                        width: 100%;
+                                    }
+                                }
+                            </style>
+
+                            <div id="carouselExampleIndicators" data-bs-touch="false" class="carousel slide mt-2 desktop" data-bs-ride="false">
+
+                                <div class="carousel-inner">
+                                    <div class="carousel-item active">
+                                        <figure class="mx-auto zoom" onmousemove="zoom(event)" style="background-image: url(https://sengketatanah.id/images/lahan1.jpeg); background-size: 200%">
+                                            <img src="https://sengketatanah.id/images/lahan1.jpeg" onmousemove='zoom(event)' class="d-block image-kunam-2" alt="...">
+                                        </figure>
+                                    </div>
+                                    <div class="carousel-item">
+                                        <figure class="mx-auto zoom" onmousemove="zoom(event)" style="background-image: url(https://sengketatanah.id/images/lahan2.jpeg); background-size: 200%">
+                                            <img src="https://sengketatanah.id/images/lahan2.jpeg" onmousemove='zoom(event)' class="d-block image-kunam-2" alt="...">
+                                        </figure>
+                                    </div>
+                                    <div class="carousel-item">
+                                        <figure class="mx-auto zoom" onmousemove="zoom(event)" style="background-image: url(https://sengketatanah.id/images/lahan3.jpeg); background-size: 200%">
+                                            <img src="https://sengketatanah.id/images/lahan3.jpeg" onmousemove='zoom(event)' class="d-block image-kunam-2" alt="...">
+                                        </figure>
+                                    </div>
+                                    <div class="carousel-item">
+                                        <figure class="mx-auto zoom" onmousemove="zoom(event)" style="background-image: url(https://sengketatanah.id/images/lahan4.jpeg); background-size: 200%">
+                                            <img src="https://sengketatanah.id/images/lahan4.jpeg" onmousemove='zoom(event)' class="d-block image-kunam-2" alt="...">
+                                        </figure>
+                                    </div>
+                                </div>
+
+                                <div class="carousel-indicators custom scroll-simple">
+                                    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1">
+                                        <img src="https://sengketatanah.id/images/lahan1.jpeg" class="d-block w-100 image-kunam-2" alt="...">
+                                    </button>
+                                    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2">
+                                        <img src="https://sengketatanah.id/images/lahan2.jpeg" class="d-block w-100 image-kunam-2" alt="...">
+                                    </button>
+                                    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3">
+                                        <img src="https://sengketatanah.id/images/lahan3.jpeg" class="d-block w-100 image-kunam-2" alt="...">
+                                    </button>
+                                    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" aria-label="Slide 4">
+                                        <img src="https://sengketatanah.id/images/lahan4.jpeg" class="d-block w-100 image-kunam-2" alt="...">
+                                    </button>
+                                </div>
+
+                                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+                                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                    <span class="visually-hidden">Previous</span>
+                                </button>
+                                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+                                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                    <span class="visually-hidden">Next</span>
+                                </button>
+                            </div>
+
+                            <div id="carouselExampleIndicatorsM" data-bs-touch="false" class="carousel slide mt-2 mobile" data-bs-ride="false">
+
+                                <div class="carousel-inner">
+                                    <div class="carousel-item active">
+                                        <img src="https://sengketatanah.id/images/lahan1.jpeg" class="d-block image-kunam-2 gambar-sesuai" alt="...">
+                                    </div>
+                                    <div class="carousel-item">
+                                        <img src="https://sengketatanah.id/images/lahan2.jpeg" class="d-block image-kunam-2 gambar-sesuai" alt="...">
+                                    </div>
+                                    <div class="carousel-item">
+                                        <img src="https://sengketatanah.id/images/lahan3.jpeg" class="d-block image-kunam-2 gambar-sesuai" alt="...">
+                                    </div>
+                                    <div class="carousel-item">
+                                        <img src="https://sengketatanah.id/images/lahan4.jpeg" class="d-block image-kunam-2 gambar-sesuai" alt="...">
+                                    </div>
+                                </div>
+
+                                <div class="carousel-indicators custom scroll-simple">
+                                    <button type="button" data-bs-target="#carouselExampleIndicatorsM" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1">
+                                        <img src="https://sengketatanah.id/images/lahan1.jpeg" class="d-block w-100" alt="...">
+                                    </button>
+                                    <button type="button" data-bs-target="#carouselExampleIndicatorsM" data-bs-slide-to="1" aria-label="Slide 2">
+                                        <img src="https://sengketatanah.id/images/lahan2.jpeg" class="d-block w-100" alt="...">
+                                    </button>
+                                    <button type="button" data-bs-target="#carouselExampleIndicatorsM" data-bs-slide-to="2" aria-label="Slide 3">
+                                        <img src="https://sengketatanah.id/images/lahan3.jpeg" class="d-block w-100" alt="...">
+                                    </button>
+                                    <button type="button" data-bs-target="#carouselExampleIndicatorsM" data-bs-slide-to="3" aria-label="Slide 4">
+                                        <img src="https://sengketatanah.id/images/lahan4.jpeg" class="d-block w-100" alt="...">
+                                    </button>
+                                </div>
+
+                                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicatorsM" data-bs-slide="prev">
+                                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                    <span class="visually-hidden">Previous</span>
+                                </button>
+                                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicatorsM" data-bs-slide="next">
+                                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                    <span class="visually-hidden">Next</span>
+                                </button>
+                            </div>
+
+                            
+
+                </div>
+            </div>
+
+
+
+            <script>
+        function zoom(e) {
+            var zoomer = e.currentTarget;
+            e.offsetX ? offsetX = e.offsetX : offsetX = e.touches[0].pageX
+            e.offsetY ? offsetY = e.offsetY : offsetY = e.touches[0].pageY
+            x = offsetX / zoomer.offsetWidth * 100
+            y = offsetY / zoomer.offsetHeight * 100
+            zoomer.style.backgroundPosition = x + '% ' + y + '%';
+        }
+
+
+
+        $('img.image-kunam').on('click', function() {
+            // let dataSrc = $(this).data('src');
+            // let dataImgLain = $($($(this).parent()).parent()).find('img')
+            let judulB = $($($($($(this).parent()).parent()).parent()).parent()).find('h5.text-center')
+                .html()
+            $('h5.title-bidang').html(judulB)
+
+            let judulA = $($($($($(this).parent()).parent()).parent()).parent()).find('h5.text-center')
+                .html()
+            $('h5.title-rumah').html(judulA)
+            // let image = $($('#image-modal').find('img.foto-utama'))
+            // image.attr('src', dataSrc);
+            // let arrayGambar = [];
+            // dataImgLain.each(function (inz,
+            //     lets) {
+            //     if (dataSrc == $(lets).attr('src')) {
+            //         return
+            //     }
+            //     arrayGambar.push(inz);
+            // });
+            // $('div#gambar-lain-modal').find('img').each(function (ind, el) {
+            //     $(el).attr('src', $(dataImgLain[arrayGambar[ind]]).attr('src'))
+            // });
+        });
+        // $('div#gambar-lain-modal').find('img').on('click', function () {
+        //     const srcDataIni = $(this).attr('src');
+        //     const srcDataUtama = $($('#image-modal').find('img.foto-utama')).attr('src')
+        //     $(this).attr('src', srcDataUtama);
+        //     $($('#image-modal').find('img.foto-utama')).attr('src', srcDataIni)
+        // });
+    </script>
+
+
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8" crossorigin="anonymous">
     </script>
 
