@@ -21,8 +21,10 @@
 
 <nav class="navbar navbar-expand-lg bg-light">
     <div class="container-fluid">
-        <a class="navbar-brand fw-bold fs-4 d-flex align-item-center" href="{{url('/')}}">
-            <img src="{{asset('/uploads/sengketa-logo_pas.png')}}" style="width:30px" class="img-fluid me-2">TANAH MERDEKA</a>
+        <a class="navbar-brand fw-bold fs-4 d-flex"href="{{url('/')}}">
+            <img src="{{asset('/uploads/sengketa-logo_pas.png')}}" style="width:30px; align-self: center" class="img-fluid me-2">
+            <div>TANAH MERDEKA</div>    
+        </a>
         <div class="form-check form-switch">
             <input class="form-check-input dark-mode" type="checkbox" role="switch" id="dark-mode">
         </div>
