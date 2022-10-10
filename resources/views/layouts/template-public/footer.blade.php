@@ -23,7 +23,7 @@
                 <div class="col-md-3 mb-2 mt-2">
                     <div class="row">
                         <div class="col-md-12">
-                            <img src="{{url('')}}/uploads/sengketa_tanah.png" style="width: 1750px" alt="">
+                            <img src="{{url('')}}/uploads/sengketa_tanah.png" style="width: 175px" alt="">
                         </div>
                         <div class="col-9">
                             <div class="row justify-content-center mt-4 text-center g-0">
