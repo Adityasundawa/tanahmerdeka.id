@@ -17,6 +17,18 @@
             font-size: 10px !important
         }
      }
+
+     .btn.btn-navoutline-brown {
+            color: #61481C;
+            background: #fff;
+            border: 1px solid #61481C;
+        }
+
+        .btn.btn-navoutline-brown:hover {
+            color: #fff;
+            background: #61481C;
+            border: 1px solid #61481C;
+        }
 </style>
 
 <nav class="navbar navbar-expand-lg bg-light">
@@ -57,7 +69,7 @@
 
                 @if(Auth::check() == false)
                 <li class="nav-item me-1 ms-1">
-                    <a class="nav-link btn btn-outline-brown rounded-3 login-mb" href="{{url('/')}}/login">Login</a>
+                    <a class="nav-link btn btn-navoutline-brown rounded-3 login-mb" href="{{url('/')}}/login">Login</a>
                 </li>
                 <li class="nav-item me-1 ms-1">
                     <a class="nav-link btn btn-brown text-white rounded-3" href="{{url('/')}}/register">Register</a>
