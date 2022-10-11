@@ -1504,16 +1504,16 @@
                                         </div>
                                         <div class="carousel-inner">
                                             <div class="carousel-item active">
-                                                <img src="{{asset('')}}{{$bs['img']}}" class="d-block w-100" style="height:210px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
+                                                <img src="{{asset('')}}{{$bs['img']}}" class="image-kunam d-block w-100" style="height:210px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
                                             </div>
                                             <div class="carousel-item">
-                                                <img src="{{asset('')}}{{$bs['img1']}}" class="d-block w-100" style="height:210px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
+                                                <img src="{{asset('')}}{{$bs['img1']}}" class="image-kunam d-block w-100" style="height:210px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
                                             </div>
                                             <div class="carousel-item">
-                                                <img src="{{asset('')}}{{$bs['img2']}}" class="d-block w-100" style="height:210px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
+                                                <img src="{{asset('')}}{{$bs['img2']}}" class="image-kunam d-block w-100" style="height:210px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
                                             </div>
                                             <div class="carousel-item">
-                                                <img src="{{asset('')}}{{$bs['img3']}}" class="d-block w-100" style="height:210px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
+                                                <img src="{{asset('')}}{{$bs['img3']}}" class="image-kunam d-block w-100" style="height:210px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
                                             </div>
                                         </div>
                                         <button class="carousel-control-prev opacity-90 text-dark" type="button" data-bs-target="#carouselmobile{{$bs['id']}}" data-bs-slide="prev">
@@ -1849,16 +1849,16 @@
                                     </div>
                                     <div class="carousel-inner">
                                         <div class="carousel-item active">
-                                            <img src="{{asset('')}}{{$bs['img']}}" class="d-block w-100" style="height:210px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
+                                            <img src="{{asset('')}}{{$bs['img']}}" class="image-kunam d-block w-100" style="height:210px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
                                         </div>
                                         <div class="carousel-item">
-                                            <img src="{{asset('')}}{{$bs['img1']}}" class="d-block w-100" style="height:210px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
+                                            <img src="{{asset('')}}{{$bs['img1']}}" class="image-kunam d-block w-100" style="height:210px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
                                         </div>
                                         <div class="carousel-item">
-                                            <img src="{{asset('')}}{{$bs['img2']}}" class="d-block w-100" style="height:210px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
+                                            <img src="{{asset('')}}{{$bs['img2']}}" class="image-kunam d-block w-100" style="height:210px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
                                         </div>
                                         <div class="carousel-item">
-                                            <img src="{{asset('')}}{{$bs['img3']}}" class="d-block w-100" style="height:210px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
+                                            <img src="{{asset('')}}{{$bs['img3']}}" class="image-kunam d-block w-100" style="height:210px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
                                         </div>
                                     </div>
                                     <button class="carousel-control-prev opacity-90 text-dark" type="button" data-bs-target="#carouselmobile{{$bs['id']}}" data-bs-slide="prev">
@@ -2197,16 +2197,16 @@
                                     </div>
                                     <div class="carousel-inner">
                                         <div class="carousel-item active">
-                                            <img src="{{asset('')}}{{$bs['img']}}" class="d-block w-100" style="height:210px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
+                                            <img src="{{asset('')}}{{$bs['img']}}" class="image-kunam d-block w-100" style="height:210px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
                                         </div>
                                         <div class="carousel-item">
-                                            <img src="{{asset('')}}{{$bs['img1']}}" class="d-block w-100" style="height:210px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
+                                            <img src="{{asset('')}}{{$bs['img1']}}" class="image-kunam d-block w-100" style="height:210px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
                                         </div>
                                         <div class="carousel-item">
-                                            <img src="{{asset('')}}{{$bs['img2']}}" class="d-block w-100" style="height:210px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
+                                            <img src="{{asset('')}}{{$bs['img2']}}" class="image-kunam d-block w-100" style="height:210px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
                                         </div>
                                         <div class="carousel-item">
-                                            <img src="{{asset('')}}{{$bs['img3']}}" class="d-block w-100" style="height:210px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
+                                            <img src="{{asset('')}}{{$bs['img3']}}" class="image-kunam d-block w-100" style="height:210px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
                                         </div>
                                     </div>
                                     <button class="carousel-control-prev opacity-90 text-dark" type="button" data-bs-target="#carouselmobile{{$bs['id']}}" data-bs-slide="prev">
@@ -2541,16 +2541,16 @@
                                     </div>
                                     <div class="carousel-inner">
                                         <div class="carousel-item active">
-                                            <img src="{{asset('')}}{{$bs['img']}}" class="d-block w-100" style="height:210px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
+                                            <img src="{{asset('')}}{{$bs['img']}}" class="image-kunam d-block w-100" style="height:210px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
                                         </div>
                                         <div class="carousel-item">
-                                            <img src="{{asset('')}}{{$bs['img1']}}" class="d-block w-100" style="height:210px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
+                                            <img src="{{asset('')}}{{$bs['img1']}}" class="image-kunam d-block w-100" style="height:210px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
                                         </div>
                                         <div class="carousel-item">
-                                            <img src="{{asset('')}}{{$bs['img2']}}" class="d-block w-100" style="height:210px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
+                                            <img src="{{asset('')}}{{$bs['img2']}}" class="image-kunam d-block w-100" style="height:210px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
                                         </div>
                                         <div class="carousel-item">
-                                            <img src="{{asset('')}}{{$bs['img3']}}" class="d-block w-100" style="height:210px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
+                                            <img src="{{asset('')}}{{$bs['img3']}}" class="image-kunam d-block w-100" style="height:210px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
                                         </div>
                                     </div>
                                     <button class="carousel-control-prev opacity-90 text-dark" type="button" data-bs-target="#carouselmobile{{$bs['id']}}" data-bs-slide="prev">
