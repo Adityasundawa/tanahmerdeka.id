@@ -1472,16 +1472,16 @@
                                         </div>
                                         <div class="carousel-inner">
                                             <div class="carousel-item active">
-                                                <img src="{{asset('')}}{{$bs['img']}}" class="d-block w-100" style="height:250px;width:auto;object-fit:cover">
+                                                <img src="{{asset('')}}{{$bs['img']}}" class="d-block w-100 image-kunam" style="height:250px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
                                             </div>
                                             <div class="carousel-item">
-                                                <img src="{{asset('')}}{{$bs['img1']}}" class="d-block w-100" style="height:250px;width:auto;object-fit:cover">
+                                                <img src="{{asset('')}}{{$bs['img1']}}" class="d-block w-100 image-kunam" style="height:250px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
                                             </div>
                                             <div class="carousel-item">
-                                                <img src="{{asset('')}}{{$bs['img2']}}" class="d-block w-100" style="height:250px;width:auto;object-fit:cover">
+                                                <img src="{{asset('')}}{{$bs['img2']}}" class="d-block w-100 image-kunam" style="height:250px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
                                             </div>
                                             <div class="carousel-item">
-                                                <img src="{{asset('')}}{{$bs['img3']}}" class="d-block w-100" style="height:250px;width:auto;object-fit:cover">
+                                                <img src="{{asset('')}}{{$bs['img3']}}" class="d-block w-100 image-kunam" style="height:250px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
                                             </div>
                                         </div>
                                         <button class="carousel-control-prev opacity-90 text-dark" type="button" data-bs-target="#carouselExampleControls{{$bs['id']}}" data-bs-slide="prev">
@@ -1534,7 +1534,7 @@
                                 <div class="card-header text-white px-3 py-1" style="background: #8f8f8f">
                                     <div class="row">
                                         <div class="col-lg-12">
-                                            <h5 class="mb-0 text-center">Kode Bid BT-00{{$bs['id']}}
+                                            <h5 class="mb-0 kodeb text-center">Kode Bid BT-00{{$bs['id']}}
                                                 <img src="{{asset('')}}uploads/biru_centang.png" alt="" class="mb-1" style="height:20px">
                                             </h5>
                                         </div>
@@ -1817,16 +1817,16 @@
                                     </div>
                                     <div class="carousel-inner">
                                         <div class="carousel-item active">
-                                            <img src="{{asset('')}}{{$bs['img']}}" class="d-block w-100" style="height:250px;width:auto;object-fit:cover">
+                                            <img src="{{asset('')}}{{$bs['img']}}" class="d-block w-100 image-kunam" style="height:250px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
                                         </div>
                                         <div class="carousel-item">
-                                            <img src="{{asset('')}}{{$bs['img1']}}" class="d-block w-100" style="height:250px;width:auto;object-fit:cover">
+                                            <img src="{{asset('')}}{{$bs['img1']}}" class="d-block w-100 image-kunam" style="height:250px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
                                         </div>
                                         <div class="carousel-item">
-                                            <img src="{{asset('')}}{{$bs['img2']}}" class="d-block w-100" style="height:250px;width:auto;object-fit:cover">
+                                            <img src="{{asset('')}}{{$bs['img2']}}" class="d-block w-100 image-kunam" style="height:250px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
                                         </div>
                                         <div class="carousel-item">
-                                            <img src="{{asset('')}}{{$bs['img3']}}" class="d-block w-100" style="height:250px;width:auto;object-fit:cover">
+                                            <img src="{{asset('')}}{{$bs['img3']}}" class="d-block w-100 image-kunam" style="height:250px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
                                         </div>
                                     </div>
                                     <button class="carousel-control-prev opacity-90 text-dark" type="button" data-bs-target="#carouselExampleControls{{$bs['id']}}" data-bs-slide="prev">
@@ -1880,7 +1880,7 @@
                             <div class="card-header text-white px-3 py-1" style="background: #8f8f8f">
                                 <div class="row">
                                     <div class="col-lg-12">
-                                        <h5 class="mb-0 text-center">Kode Bid BT-00{{$bs['id']}}
+                                        <h5 class="mb-0 kodeb text-center">Kode Bid BT-00{{$bs['id']}}
                                             <img src="{{asset('')}}uploads/biru_centang.png" alt="" class="mb-1" style="height:20px">
                                         </h5>
                                     </div>
@@ -2165,16 +2165,16 @@
                                     </div>
                                     <div class="carousel-inner">
                                         <div class="carousel-item active">
-                                            <img src="{{asset('')}}{{$bs['img']}}" class="d-block w-100" style="height:250px;width:auto;object-fit:cover">
+                                            <img src="{{asset('')}}{{$bs['img']}}" class="d-block w-100 image-kunam" style="height:250px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
                                         </div>
                                         <div class="carousel-item">
-                                            <img src="{{asset('')}}{{$bs['img1']}}" class="d-block w-100" style="height:250px;width:auto;object-fit:cover">
+                                            <img src="{{asset('')}}{{$bs['img1']}}" class="d-block w-100 image-kunam" style="height:250px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
                                         </div>
                                         <div class="carousel-item">
-                                            <img src="{{asset('')}}{{$bs['img2']}}" class="d-block w-100" style="height:250px;width:auto;object-fit:cover">
+                                            <img src="{{asset('')}}{{$bs['img2']}}" class="d-block w-100 image-kunam" style="height:250px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
                                         </div>
                                         <div class="carousel-item">
-                                            <img src="{{asset('')}}{{$bs['img3']}}" class="d-block w-100" style="height:250px;width:auto;object-fit:cover">
+                                            <img src="{{asset('')}}{{$bs['img3']}}" class="d-block w-100 image-kunam" style="height:250px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
                                         </div>
                                     </div>
                                     <button class="carousel-control-prev opacity-90 text-dark" type="button" data-bs-target="#carouselExampleControls{{$bs['id']}}" data-bs-slide="prev">
@@ -2228,7 +2228,7 @@
                             <div class="card-header text-white px-3 py-1" style="background: #8f8f8f">
                                 <div class="row">
                                     <div class="col-lg-12">
-                                        <h5 class="mb-0 text-center">Kode Bid BT-00{{$bs['id']}}
+                                        <h5 class="mb-0 kodeb text-center">Kode Bid BT-00{{$bs['id']}}
                                             <img src="{{asset('')}}uploads/biru_centang.png" alt="" class="mb-1" style="height:20px">
                                         </h5>
                                     </div>
@@ -2509,16 +2509,16 @@
                                     </div>
                                     <div class="carousel-inner">
                                         <div class="carousel-item active">
-                                            <img src="{{asset('')}}{{$bs['img']}}" class="d-block w-100" style="height:250px;width:auto;object-fit:cover">
+                                            <img src="{{asset('')}}{{$bs['img']}}" class="d-block w-100 image-kunam" style="height:250px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
                                         </div>
                                         <div class="carousel-item">
-                                            <img src="{{asset('')}}{{$bs['img1']}}" class="d-block w-100" style="height:250px;width:auto;object-fit:cover">
+                                            <img src="{{asset('')}}{{$bs['img1']}}" class="d-block w-100 image-kunam" style="height:250px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
                                         </div>
                                         <div class="carousel-item">
-                                            <img src="{{asset('')}}{{$bs['img2']}}" class="d-block w-100" style="height:250px;width:auto;object-fit:cover">
+                                            <img src="{{asset('')}}{{$bs['img2']}}" class="d-block w-100 image-kunam" style="height:250px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
                                         </div>
                                         <div class="carousel-item">
-                                            <img src="{{asset('')}}{{$bs['img3']}}" class="d-block w-100" style="height:250px;width:auto;object-fit:cover">
+                                            <img src="{{asset('')}}{{$bs['img3']}}" class="d-block w-100 image-kunam" style="height:250px;width:auto;object-fit:cover"data-bs-toggle="modal"data-bs-target="#image-modal">
                                         </div>
                                     </div>
                                     <button class="carousel-control-prev opacity-90 text-dark" type="button" data-bs-target="#carouselExampleControls{{$bs['id']}}" data-bs-slide="prev">
@@ -2572,7 +2572,7 @@
                             <div class="card-header text-white px-3 py-1" style="background: #8f8f8f">
                                 <div class="row">
                                     <div class="col-lg-12">
-                                        <h5 class="mb-0 text-center">Kode Bid BT-00{{$bs['id']}}
+                                        <h5 class="mb-0 kodeb text-center">Kode Bid BT-00{{$bs['id']}}
                                             <img src="{{asset('')}}uploads/biru_centang.png" alt="" class="mb-1" style="height:20px">
                                         </h5>
                                     </div>
@@ -2991,37 +2991,10 @@
                             </button>
                         </div>
 
-                        {{-- <div class="row justify-content-center">
-
-                                    <div class="col-lg-8">
-                                        <img src="{{asset('')}}images/lahan4.jpeg"
-                        class="rounded-1 foto-utama mobile-size" />
-                    </div>
-
-                    <div class="col-lg-8">
-                        <div class="row mt-2 justify-content-center">
-
-                            <div class="col-lg mobile-scroll align-center" id='gambar-lain-modal' style="white-space:nowrap;flex-wrap:nowarp;display:flex">
-
-                                <div class="container-gambar ms-1 me-1" style='display: inline-block;flex: 0 0 auto'>
-                                    <img src="{{asset('')}}images/lahan4.jpeg" alt="" srcset="" class="rounded-1 img-fluid " style="width:150px;height:100px;object-fit:cover;"> <br>
-                                </div>
-                                <div class="container-gambar ms-1 me-1" style='display: inline-block;flex: 0 0 auto'>
-                                    <img src="{{asset('')}}images/lahan4.jpeg" alt="" srcset="" class="rounded-1 img-fluid " style="width:150px;height:100px;object-fit:cover;"> <br>
-                                </div>
-
-                                <div class="container-gambar ms-1 me-1" style='display: inline-block;flex: 0 0 auto'>
-                                    <img src="{{asset('')}}images/lahan4.jpeg" alt="" srcset="" class="rounded-1 img-fluid " style="width:150px;height:100px;object-fit:cover;"> <br>
-                                </div>
-
-                            </div>
-
-                        </div>
-
-                    </div>
-                </div> --}}
+                    
 
             </div>
+                </div>
         </div>
     </div>
     <script>
@@ -3039,13 +3012,13 @@
         $('img.image-kunam').on('click', function() {
             // let dataSrc = $(this).data('src');
             // let dataImgLain = $($($(this).parent()).parent()).find('img')
-            let judulB = $($($($($(this).parent()).parent()).parent()).parent()).find('h5.text-center')
-                .html()
-            $('h5.title-bidang').html(judulB)
+            // let judulB = $($($($($(this).parent()).parent()).parent()).parent()).find('h5.text-center')
+            //     .html()
+            // $('h5.title-bidang').html(judulB)
 
-            let judulA = $($($($($(this).parent()).parent()).parent()).parent()).find('h5.text-center')
+            let judulA = $($($($($($(this).parent()).parent()).parent()).parent()).parent()).find('h5.kodeb.text-center')
                 .html()
-            $('h5.title-rumah').html(judulA)
+            $('h5.title-bidang').html(judulA)
             // let image = $($('#image-modal').find('img.foto-utama'))
             // image.attr('src', dataSrc);
             // let arrayGambar = [];
